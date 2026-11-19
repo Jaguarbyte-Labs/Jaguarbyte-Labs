@@ -1,4 +1,4 @@
-<p align="center"><img src="../assets/banner.png" alt="Jaguarbyte Labs" width="100%"></p>
+<p align="center"><img src="./assets/banner.png" alt="Jaguarbyte Labs" width="100%"></p>
 
 <h3 align="center">Software built in the open, on-chain and off.</h3>
 <p align="center">We build on-chain games, DeFi and wallets, plus websites and apps for the regular web. Verified source, no hidden switches.</p>
@@ -33,7 +33,7 @@
 
 ## Team
 
-<img src="../assets/vini.jpg" alt="Vini do Carmo" width="72" align="left" hspace="12">
+<img src="./assets/vini.jpg" alt="Vini do Carmo" width="72" align="left" hspace="12">
 
 **[Vini do Carmo](https://github.com/vinidocarmo)**, Founder & CTO<br>
 <sub>Full-Stack Developer · Software Engineer</sub><br>
